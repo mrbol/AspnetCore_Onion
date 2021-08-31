@@ -1,0 +1,9 @@
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.dll
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.pdb
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.dll
+G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.pdb
