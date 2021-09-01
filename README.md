@@ -1,4 +1,4 @@
-![cover](Content/topo.png?style=flat)
+![cover](https://github.com/mrbol/AspnetCore_Onion/blob/main/OnionArchitecture/WebApi/Content/topo.png?style=flat)
 
 # ⚙ Arquitetura Onion no Projeto ASP.NET Core WebApi
 
