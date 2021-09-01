@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {}
+    "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
+    "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\waldiney.fernandes\\.nuget\\packages\\",
-        "outputPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\obj\\",
+        "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Marcos Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\waldiney.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Marcos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -33,8 +32,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj"
+              "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -73,27 +72,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
+    "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\waldiney.fernandes\\.nuget\\packages\\",
-        "outputPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\obj\\",
+        "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Marcos Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\waldiney.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Marcos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -132,27 +130,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {
+    "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\waldiney.fernandes\\.nuget\\packages\\",
-        "outputPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\obj\\",
+        "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Marcos Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\waldiney.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Marcos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -165,11 +162,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
-                "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj"
+              "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
+                "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj"
               },
-              "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj"
+              "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -185,6 +182,12 @@
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.9, )"
             },
@@ -208,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

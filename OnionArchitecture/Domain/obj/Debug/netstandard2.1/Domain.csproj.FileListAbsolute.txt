@@ -7,3 +7,12 @@ G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\
 G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
 G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.dll
 G:\testes\exemplos_publicos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\estudos\AspnetCore_Onion\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.pdb

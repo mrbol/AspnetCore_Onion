@@ -33,6 +33,18 @@
           "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Mvc.Versioning/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -1703,6 +1715,25 @@
         "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
         "mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
         "mediatr.extensions.microsoft.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning/5.0.0": {
+      "sha512": "mN9IARvNpHMBD2/oGmp5Bxp1Dg45Hfcp+LWaAyTtL2HisWLMOIcf0Ox1qW9IvCvdbHM+2A9dWEInhiqBsNxsJA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.mvc.versioning/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "icon.png",
+        "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll",
+        "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.pdb",
+        "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.xml",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.pdb",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.xml",
+        "microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.versioning.nuspec"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -6040,6 +6071,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Application >= 1.0.0",
+      "Microsoft.AspNetCore.Mvc.Versioning >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.9",
       "Persistence >= 1.0.0",
@@ -6048,27 +6080,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\waldiney.fernandes\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Marcos Santos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\waldiney.fernandes\\.nuget\\packages\\",
-      "outputPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\obj\\",
+      "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Marcos Santos\\.nuget\\packages\\",
+      "outputPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\waldiney.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Marcos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6081,11 +6111,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
-              "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj"
+            "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj": {
+              "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Application\\Application.csproj"
             },
-            "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {
-              "projectPath": "G:\\testes\\exemplos_publicos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj"
+            "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\estudos\\AspnetCore_Onion\\OnionArchitecture\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -6100,6 +6130,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Versioning": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -6139,7 +6173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
