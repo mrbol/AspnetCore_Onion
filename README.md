@@ -16,4 +16,4 @@ Para manter as coisas simples, mas demonstrar a arquitetura ao máximo, construi
 - Inverted Dependencies
 - API Versioning
 
-Este repositorio foi criado com objetivo de exercicio de fixação . Segue o link do artigo https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
+Este repositório foi criado com objetivo de exercício de fixação . Segue o link do artigo https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
