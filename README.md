@@ -15,3 +15,5 @@ Para manter as coisas simples, mas demonstrar a arquitetura ao máximo, construi
 - CRUD Operations
 - Inverted Dependencies
 - API Versioning
+
+* Este repositorio foi criado com objetivo de estudo . Segue o link do artigo https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
